@@ -1,4 +1,4 @@
-# ApocalypseSimulation
+# Apocalypse Simulation
 
 The Apocalypse Simulation is a RPG built in Java based off of Conway's Game of Life. The user plays as the lone human in this world, 
 and he must defeat enemies such as zombies, werewolves, aliens, and vampires to survive. Similar to Conway's Game of Life, the 
